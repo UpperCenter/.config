@@ -1,0 +1,64 @@
+["INFO" - 01:30:37] Extension Name: esbenp.prettier-vscode.
+["INFO" - 01:30:37] Extension Version: 4.7.0.
+["INFO" - 01:30:37] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 01:30:37] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 01:39:43] Formatting /home/uppercenter/Desktop/Projects/derguns.town/src/ts/lodash.ts
+["INFO" - 01:39:43] Using ignore file (if present) at /home/uppercenter/Desktop/Projects/derguns.town/.prettierignore
+["INFO" - 01:39:43] Using bundled version of prettier.
+["INFO" - 01:39:43] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 01:39:43] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 01:39:43] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/uppercenter/Desktop/Projects/derguns.town/src/ts/lodash.ts",
+  "parser": "typescript"
+}
+["INFO" - 01:39:43] Formatting completed in 222.430534ms.

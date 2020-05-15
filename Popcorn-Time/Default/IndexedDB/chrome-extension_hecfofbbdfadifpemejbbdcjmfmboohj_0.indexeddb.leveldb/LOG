@@ -1,0 +1,7 @@
+2020/05/04-11:38:48.221 ef9 Reusing MANIFEST /home/uppercenter/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/04-11:38:48.221 ef9 Recovering log #3
+2020/05/04-11:38:48.649 ef9 Reusing old log /home/uppercenter/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000003.log 
+2020/05/04-12:16:05.766 167f Level-0 table #5: started
+2020/05/04-12:16:05.956 167f Level-0 table #5: 1124 bytes OK
+2020/05/04-12:16:06.046 167f Delete type=0 #3
+2020/05/04-12:16:06.046 167f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

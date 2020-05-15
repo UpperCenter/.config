@@ -1,0 +1,8 @@
+[2020-05-14 16:26:05.762] [sharedprocess] [info] main {"machineId":"ccd173ec0bad691cb578ca062cafac221aa75e030930f4736b822a9377042573","windowId":2}
+[2020-05-14 16:26:12.594] [sharedprocess] [info] Installing extension: hangxingliu.vscode-systemd-support
+[2020-05-14 16:26:12.878] [sharedprocess] [info] Downloaded extension: hangxingliu.vscode-systemd-support /tmp/e09845a4-4b40-45be-9e02-fed4d0716538
+[2020-05-14 16:26:12.908] [sharedprocess] [info] Extracted extension to /home/uppercenter/.vscode-oss/extensions/.hangxingliu.vscode-systemd-support-0.1.1: hangxingliu.vscode-systemd-support
+[2020-05-14 16:26:12.908] [sharedprocess] [info] Renamed to /home/uppercenter/.vscode-oss/extensions/hangxingliu.vscode-systemd-support-0.1.1
+[2020-05-14 16:26:12.908] [sharedprocess] [info] Installation completed. hangxingliu.vscode-systemd-support
+[2020-05-14 16:26:12.912] [sharedprocess] [info] Extensions installed successfully: hangxingliu.vscode-systemd-support
+[2020-05-14 16:26:45.782] [sharedprocess] [info] Starting to clean up unused language packs.

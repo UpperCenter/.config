@@ -1,0 +1,62 @@
+[2020-05-14 14:29:19.119] [exthost] [info] extension host started
+[2020-05-14 14:29:19.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-14 14:29:19.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-05-14 14:29:19.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-14 14:29:19.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-05-14 14:29:19.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-14 14:29:19.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-05-14 14:29:19.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-14 14:29:19.279] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-05-14 14:29:19.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-14 14:29:19.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-05-14 14:29:19.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-14 14:29:19.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-05-14 14:29:19.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-14 14:29:19.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-05-14 14:29:19.290] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-05-14 14:29:19.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-05-14 14:29:19.298] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-14 14:29:19.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/esbenp.prettier-vscode-4.7.0/dist/extension
+[2020-05-14 14:29:19.376] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-14 14:29:19.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-14 14:29:19.409] [exthost] [info] eager extensions activated
+[2020-05-14 14:30:34.044] [exthost] [info] extension host started
+[2020-05-14 14:30:34.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-14 14:30:34.108] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-05-14 14:30:34.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-05-14 14:30:34.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-05-14 14:30:34.150] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:typescript"}
+[2020-05-14 14:30:34.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2020-05-14 14:30:34.152] [exthost] [info] ExtensionService#_doActivateExtension pmneo.tsimporter {"startup":false,"extensionId":{"value":"pmneo.tsimporter","_lower":"pmneo.tsimporter"},"activationEvent":"onLanguage:typescript"}
+[2020-05-14 14:30:34.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/pmneo.tsimporter-2.0.1/out/TypeScriptImporter
+[2020-05-14 14:30:34.157] [exthost] [info] ExtensionService#_doActivateExtension rbbit.typescript-hero {"startup":false,"extensionId":{"value":"rbbit.typescript-hero","_lower":"rbbit.typescript-hero"},"activationEvent":"onLanguage:typescript"}
+[2020-05-14 14:30:34.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/rbbit.typescript-hero-3.0.0/out/src/extension
+[2020-05-14 14:30:34.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-14 14:30:34.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-05-14 14:30:34.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-14 14:30:34.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-05-14 14:30:34.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-14 14:30:34.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-05-14 14:30:34.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-14 14:30:34.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-05-14 14:30:34.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-14 14:30:34.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-05-14 14:30:34.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-14 14:30:34.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-05-14 14:30:34.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-14 14:30:34.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-05-14 14:30:34.518] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-05-14 14:30:34.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-05-14 14:30:34.523] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-14 14:30:34.523] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/esbenp.prettier-vscode-4.7.0/dist/extension
+[2020-05-14 14:30:34.587] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-14 14:30:34.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-14 14:30:34.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-05-14 14:30:34.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-05-14 14:30:34.764] [exthost] [info] eager extensions activated
+[2020-05-14 14:30:41.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-14 14:30:41.048] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-05-14 14:30:41.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-05-14 14:30:41.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-05-14 15:04:30.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-05-14 15:04:30.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension

@@ -1,0 +1,1594 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/uppercenter/Desktop/Projects/derguns.town
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CHANGELOG.md
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 2cc14ab17efd76067e79d01a3dec357b9745d2bd
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 2cc14ab17efd76067e79d01a3dec357b9745d2bd
+> git show :CHANGELOG.md
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 2cc14ab17efd76067e79d01a3dec357b9745d2bd
+> git show :CHANGELOG.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 2cc14ab17efd76067e79d01a3dec357b9745d2bd
+> git show :CHANGELOG.md
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 2cc14ab17efd76067e79d01a3dec357b9745d2bd
+> git show :CHANGELOG.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/package.json
+> git cat-file -s 2a659091fd9f2c7cd2ef4e2f2ca5d71bc367195a
+> git pull --tags origin development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 1d166ad2401c74c5e96a07965f7ff46b807ed469
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+> git pull --tags origin development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git push origin development:development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   e665dd72..8aff1932  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git show :src/ts/common/entities.ts
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 54e887650485b69bcc9ec0dfc7580382be5d8b46
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 097c34b60b7176ee76f34dc6f0a2cd7bb2885775
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s bd0e8c10c2df06a4c65ba06e2ad80746693c1803
+> git show :src/ts/common/entities.ts
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s bd0e8c10c2df06a4c65ba06e2ad80746693c1803
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git push origin development:development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s bd0e8c10c2df06a4c65ba06e2ad80746693c1803
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   8aff1932..d740f44e  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s bd0e8c10c2df06a4c65ba06e2ad80746693c1803
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s c2178260df8eaf02861b92e35b2ed5c704dda641
+> git show :src/ts/common/entities.ts
+> git pull --tags origin development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+   d740f44e..d80c7b5f  development -> origin/development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git push origin development:development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   d80c7b5f..a1bc6e19  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s c2178260df8eaf02861b92e35b2ed5c704dda641
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git show :src/ts/common/entities.ts
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s c2178260df8eaf02861b92e35b2ed5c704dda641
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s c2178260df8eaf02861b92e35b2ed5c704dda641
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CHANGELOG.md
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/CHANGELOG.md
+> git cat-file -s 03301faf3ba652b5a795621e2ca53dc8620adc7f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s c2178260df8eaf02861b92e35b2ed5c704dda641
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git push origin development:development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   a1bc6e19..145bb1a8  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git show :src/ts/common/entities.ts
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git show :src/ts/common/entities.ts
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+   145bb1a8..2a4cf4d9  development -> origin/development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/ts/common/entities.ts
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+   2a4cf4d9..b40a316c  development -> origin/development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git pull --tags origin development
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 792ae3a7a80b098c3764435763bfa672e063d3d8
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git push origin development:development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   b40a316c..d101bce9  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git fetch
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/common/entities.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 8e522e3037dbe5a60f999793e218eed773d842ca
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git push origin development:development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+To https://github.com/UpperCenter/derguns.town.git
+   d101bce9..ef341934  development -> development
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin development
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+From https://github.com/UpperCenter/derguns.town
+ * branch              development -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/common/entities.ts
+> git cat-file -s 7c6e31cbf159a54de2d96582e8e7d78b60143c99
+> git show :src/ts/common/entities.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/ts/server/controllers/attackItemController.ts
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/server/controllers/attackItemController.ts
+> git cat-file -s 02f502266b21a48164efdb3c67f48f8c2d586300
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/server/controllers/attackItemController.ts
+> git rev-parse development
+> git cat-file -s 02f502266b21a48164efdb3c67f48f8c2d586300
+> git rev-parse --symbolic-full-name development@{u}
+> git show :src/ts/server/controllers/attackItemController.ts
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/server/controllers/attackItemController.ts
+> git cat-file -s 02f502266b21a48164efdb3c67f48f8c2d586300
+> git show :src/ts/server/controllers/attackItemController.ts
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/uppercenter/Desktop/Projects/derguns.town/src/ts/server/controllers/attackItemController.ts
+> git cat-file -s 02f502266b21a48164efdb3c67f48f8c2d586300
+> git show :src/ts/server/controllers/attackItemController.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse development
+> git rev-parse --symbolic-full-name development@{u}
+> git rev-list --left-right development...refs/remotes/origin/development
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

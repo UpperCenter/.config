@@ -1,0 +1,6 @@
+2020/05/15-00:35:59.997 339b Reusing MANIFEST /home/uppercenter/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/15-00:35:59.997 339b Recovering log #4
+2020/05/15-00:35:59.998 339b Reusing old log /home/uppercenter/.config/chromium/Default/Local Storage/leveldb/000004.log 
+2020/05/15-01:02:37.388 44f4 Level-0 table #8: started
+2020/05/15-01:02:37.402 44f4 Level-0 table #8: 17253 bytes OK
+2020/05/15-01:02:37.407 44f4 Delete type=0 #4

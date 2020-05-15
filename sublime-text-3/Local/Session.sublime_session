@@ -1,0 +1,272 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "### Main Commands:\n\nInstall Required Repos:\n\n- ``dnf -y install https://rpms.remirepo.net/fedora/remi-release-31.rpm``  (Latest PHP Repo)\n\n- ``dnf -y install https://repo.mysql.com//mysql80-community-release-fc31-1.noarch.rpm``  (Latest MySQL 8 Repo)\n\n- ``dnf -y install https://rpm.nodesource.com/pub_9.x/el/7/x86_64/nodejs-9.11.2-1nodesource.x86_64.rpm`` (NodeJS 9.11.2)\n\n- Import old repos!\n\n- MongoDB Repo\n```sh\ncat <<EOF | sudo tee /etc/yum.repos.d/mongodb.repo\n[mongodb-4.2]\nname=MongoDB Repository\nbaseurl=https://repo.mongodb.org/yum/redhat/7/mongodb-org/4.2/x86_64/\ngpgcheck=1\nenabled=1\ngpgkey=https://www.mongodb.org/static/pgp/server-4.2.asc\nEOF\n```\n\nMain instalation command:\n\n``dnf install nginx php php-fpm php-common htop figlet lolcat fortune-mod fail2ban cowsay nano wget curl make gcc yum-utils ImageMagick cockpit mysql-community-server git git-lfs mongodb-org``\n\nInstall Gulp globally:\n``npm install -g gulp``\n\nGenerate API & Session Tokens:\n``node -e \"console.log(require('crypto').randomBytes(64).toString('base64'))\"``\n\n### Git Store Credentials\n\n``git config --global credential.helper store``\n\n### Firewall Configuration\n\n- Close Port 22: ``firewall-cmd --remove-port=22/tcp --permanent``\n\n- Cockpit Default Port: ``firewall-cmd --add-port=9090/tcp --permanent``\n\n- SSH Port: ``firewall-cmd --add-port=5319/tcp --permanent``\n\n- HTTP: ``firewall-cmd --add-port=80/tcp --permanent``\n\n- HTTPS: ``firewall-cmd --add-port=443/tcp --permanent``\n\n- Minecraft Server: ``firewall-cmd --add-port=8080/tcp --permanent``\n\n- Dergun Town Main: ``firewall-cmd --add-port=8090/tcp --permanent``\n\n- Dergun Town Admin ``firewall-cmd --add-port=8091/tcp --permanent``\n\nReload Firewall: ``sudo firewall-cmd --runtime-to-permanent && sudo firewall-cmd --reload && sudo systemctl restart firewalld``\n\n### Reminders:\n\n1. Import ``.repo`` files to ``/etc/yum.repos.d/*``.\n\n2. Import ``config.json`` to main directory.\n\n    2.1 Add to ``config.json`` Discord Developer credentials from <https://discordapp.com/developers/>\n\n3. Import CloudFlare root SSL certificates to ``/etc/nginx/ssl/*``.\n\n    3.1 Set 400 permissions on SSL files + ``nginx`` main user and group. (``chmod 400 * && chown -R nginx:nginx *``)\n\n4. Redeploy music bot.\n\n5. Redeploy Dan ATM 3 server.\n\n### MongoDB Account Creation:\n\n``use infern_data``\n\n``db.new_collection.insert({ some_key: \"some_value\" })``\n\n```\ndb.createUser(\n  {\n    user: \"tom\",\n    pwd: \"jG6PGrjEcxDmsw2CvEKGw5eLjP2Kyk\",\n    roles: [ { role: \"readWrite\", db: \"infern_data\" } ]\n  }\n)\n```\n\n#### Old System Info\n\n```\nSystem Information:\n  Distro...........: Fedora 31 (Server Edition)\n  Kernel...........: Linux 5.4.13-201.fc31.x86_64\n  Uptime...........: up 2 days, 5 hours, 13 minutes\n  Load.............: 0.70 (1m), 0.68 (5m), 0.71 (15m)\n  Processes........: 135 (root), 30 (user) | 165 (total)\n  CPU..............: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz\n  Memory...........: 4.8Gi used, 10Gi free, 15Gi in total\n```\n\nBanner /etc/issue.net",
+					"file": "/run/media/uppercenter/HDD1/Dergun Town Backups/Important Info 2.md",
+					"file_size": 2959,
+					"file_write_time": 132329038443984867,
+					"settings":
+					{
+						"buffer_size": 2981,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/media/uppercenter/HDD1/Dergun Town Backups/issue.net",
+					"settings":
+					{
+						"buffer_size": 814,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/run/media/uppercenter/HDD1/Dergun Town Backups/Important Info.txt",
+				"/home/uppercenter/Desktop/Projects/derguns.town/config.json",
+				"/home/uppercenter/Desktop/Projects/derguns.town/node_modules/@fortawesome/free-brands-svg-icons/faWiki.js",
+				"/run/media/uppercenter/HDD1/Dergun Town Backups/issue.net",
+				"/run/media/uppercenter/120 GIG/meme.txt",
+				"/home/uppercenter/Desktop/Projects/derguns.town/node_modules/@fortawesome/free-brands-svg-icons/faWikipediaW.d.ts"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/run/media/uppercenter/HDD1/Dergun Town Backups/Important Info 2.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2981,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										688,
+										688
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/run/media/uppercenter/HDD1/Dergun Town Backups/issue.net",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 814,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										814,
+										814
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,2560,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

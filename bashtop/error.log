@@ -1,0 +1,99 @@
+ 
+New instance of bashtop version: 0.8.12 Pid: 31313
+ 
+New instance of bashtop version: 0.8.12 Pid: 30680
+ 
+New instance of bashtop version: 0.8.12 Pid: 38512
+ 
+New instance of bashtop version: 0.8.12 Pid: 39175
+ 
+New instance of bashtop version: 0.8.12 Pid: 39679
+ 
+New instance of bashtop version: 0.8.12 Pid: 3653
+ 
+New instance of bashtop version: 0.8.14 Pid: 7353
+ 
+New instance of bashtop version: 0.8.15 Pid: 14458
+ 
+New instance of bashtop version: 0.8.16 Pid: 8403
+ 
+New instance of bashtop version: 0.8.17 Pid: 34335
+ 
+New instance of bashtop version: 0.8.17 Pid: 34840
+ 
+New instance of bashtop version: 0.8.17 Pid: 35090
+ 
+New instance of bashtop version: 0.8.17 Pid: 35379
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+14:21:33 ERROR: On line 2555 
+14:21:33 ERROR: On line 3492 
+stty: 'standard input': Input/output error
+stty: 'standard input': Input/output error
+14:21:33 ERROR: On line 471 
+14:21:33 ERROR: On line 471 
+/usr/bin/bashtop: line 472: ((: <80 | <24: syntax error: operand expected (error token is "<80 | <24")
+/usr/bin/bashtop: line 876: echo: write error: Input/output error
+14:21:33 ERROR: On line 876 
+14:21:33 ERROR: On line 476 
+/usr/bin/bashtop: line 1342: echo: write error: Input/output error
+14:21:33 ERROR: On line 1342 
+14:21:33 ERROR: On line 477 
+ 
+New instance of bashtop version: 0.8.17 Pid: 5693
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+18:17:36 ERROR: On line 2555 
+18:17:36 ERROR: On line 3492 
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+18:17:36 ERROR: On line 2555 (MUTED!)
+18:17:36 ERROR: On line 3492 (MUTED!)
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+18:17:36 ERROR: On line 2555 (MUTED!)
+18:17:36 ERROR: On line 3492 (MUTED!)
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+18:17:36 ERROR: On line 2555 (MUTED!)
+18:17:36 ERROR: On line 3492 (MUTED!)
+/usr/bin/bashtop: line 2555: echo: write error: Input/output error
+18:17:36 ERROR: On line 2555 (MUTED!)
+18:17:36 ERROR: On line 3492 (MUTED!)
+stty: 'standard input': Input/output error
+stty: 'standard input': Input/output error
+18:17:36 ERROR: On line 471 
+18:17:36 ERROR: On line 471 
+/usr/bin/bashtop: line 472: ((: <80 | <24: syntax error: operand expected (error token is "<80 | <24")
+ 
+New instance of bashtop version: 0.8.17 Pid: 6284
+ 
+New instance of bashtop version: 0.8.17 Pid: 108846
+ 
+New instance of bashtop version: 0.8.18 Pid: 147825
+ 
+New instance of bashtop version: 0.8.18 Pid: 10641
+ 
+New instance of bashtop version: 0.8.18 Pid: 23212
+ 
+New instance of bashtop version: 0.8.21 Pid: 8414
+ 
+New instance of bashtop version: 0.8.21 Pid: 21953
+ 
+New instance of bashtop version: 0.8.21 Pid: 46255
+ 
+New instance of bashtop version: 0.8.23 Pid: 30651
+ 
+New instance of bashtop version: 0.8.24 Pid: 25780
+ 
+New instance of bashtop version: 0.8.15 Pid: 41224
+ 
+New instance of bashtop version: 0.8.15 Pid: 63672
+ 
+New instance of bashtop version: 0.8.15 Pid: 12946
+ 
+New instance of bashtop version: 0.8.15 Pid: 5970
+ 
+New instance of bashtop version: 0.8.15 Pid: 225927
+/usr/bin/bashtop: line 2494: echo: write error: Input/output error
+16:26:44 ERROR: On line 2494 
+16:26:44 ERROR: On line 3431 
+/usr/bin/bashtop: line 2494: echo: write error: Input/output error
+16:26:44 ERROR: On line 2494 (MUTED!)
+ 
+New instance of bashtop version: 0.8.15 Pid: 53337

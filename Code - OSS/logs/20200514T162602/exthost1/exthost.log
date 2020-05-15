@@ -1,0 +1,24 @@
+[2020-05-14 16:26:03.813] [exthost] [info] extension host started
+[2020-05-14 16:26:03.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-14 16:26:03.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-05-14 16:26:03.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-14 16:26:03.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-05-14 16:26:03.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-14 16:26:03.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-05-14 16:26:03.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-14 16:26:03.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-05-14 16:26:03.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-14 16:26:03.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-05-14 16:26:03.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-14 16:26:03.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-05-14 16:26:03.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-14 16:26:03.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-05-14 16:26:03.971] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-05-14 16:26:03.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-05-14 16:26:03.979] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-05-14 16:26:03.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/esbenp.prettier-vscode-4.7.0/dist/extension
+[2020-05-14 16:26:04.039] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-14 16:26:04.039] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-14 16:26:04.074] [exthost] [info] eager extensions activated
+[2020-05-14 16:26:17.147] [exthost] [info] ExtensionService#_doActivateExtension hangxingliu.vscode-systemd-support {"startup":false,"extensionId":{"value":"hangxingliu.vscode-systemd-support","_lower":"hangxingliu.vscode-systemd-support"},"activationEvent":"onLanguage:systemd-unit-file"}
+[2020-05-14 16:26:17.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/uppercenter/.vscode-oss/extensions/hangxingliu.vscode-systemd-support-0.1.1/extension/index.js
